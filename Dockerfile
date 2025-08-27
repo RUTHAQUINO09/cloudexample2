@@ -10,7 +10,6 @@ COPY . /var/www/html/
 #ExpOner el puerto 80
 EXPOSE 80
 
-CMD [ "apache2-foreground" ]
 
 
 
